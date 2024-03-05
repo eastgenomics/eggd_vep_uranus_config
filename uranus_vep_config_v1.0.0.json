@@ -1,0 +1,90 @@
+  {
+    "config_information":{
+        "genome_build": "GRCh38",
+        "assay":"Uranus",
+        "config_version": "1.0.0"
+    },
+        "vep_resources":{
+        "vep_docker":"file-G61zff8433Gy2KQX7Q2z150B",
+        "vep_cache":"file-G61yF38433GQgP504Px5PZ4G",
+        "plugin_config":"file-G61zfvj433GxkQXF414xP1yF",
+        "reference_fasta":"file-G61y95Q433Gk05zyFKF9kFv2",
+        "reference_fai":"file-G61yBV8433GjbVj022PyV3K5",
+        "reference_gzi":"file-G61yBf0433Gp4BBVGj0jxqvP",
+        "ref_bcftools":"file-Fy4j2G04qB6zQK885B5Q8Pqp"
+    },
+    "custom_annotations": [
+      {
+        "name": "ClinVar",
+        "type": "vcf",
+        "annotation_type": "exact",
+        "force_coordinates": "0",
+        "vcf_fields": "CLNSIG,CLNREVSTAT,CLNDN,CLNSIGCONF",
+        "required_fields":"ClinVar,ClinVar_CLNSIG,ClinVar_CLNSIGCONF,ClinVar_CLNDN",
+        "resource_files": [
+          {
+          "file_id":"file-Gf03jZj42VYZy6kzQ895pFQf",
+          "index_id":"file-Gf03kZ042VYz0Gz1496XQgj6"
+          }
+        ]
+      },
+      {
+        "name": "panel",
+        "type": "bed",
+        "annotation_type": "overlap",
+        "force_coordinates": "0",
+        "required_fields": "panel",
+        "resource_files": [
+          {
+          "file_id":"file-GgKzZP047xBYg0xpqp2Y6g0B",
+          "index_id":"file-GgKzZX047xBQ3Y9PY4XQGj7X"
+          }
+        ]
+      },
+      {
+        "name": "Prev_Count",
+        "type": "vcf",
+        "annotation_type": "exact",
+        "force_coordinates": "0",
+        "vcf_fields": "AC,NS",
+        "required_fields": "Prev_Count_AC,Prev_Count_NS",
+        "resource_files": [
+          {
+          "file_id":"file-GZJFvq043bFzkk3xBxY6GZyX",
+          "index_id":"file-GZJFvq043bFyG614g32P3K59"
+          }
+        ]
+      }
+    ],
+    "plugins": [
+      {
+        "name": "CADD",
+        "pm_file": "file-G620928433Gy9p2b27zb8JFV",
+        "required_fields":"CADD_PHRED",
+        "resource_files": [
+          {
+            "file_id": "file-G61xfZ0433Gj2vJ7P8k9ky2Z",
+            "index_id": "file-G61y4Y8433GvyjJ52Fj5XjY5"
+          },
+          {
+            "file_id": "file-G61xbP0433GqX36p8QQxP3PV",
+            "index_id": "file-G61xf3j433Gz49jf6XjKG4F0"
+          }
+        ]
+      }
+    ],
+    "additional_fields":[
+        "Allele",
+        "SYMBOL",
+        "Consequence",
+        "IMPACT",
+        "EXON",
+        "INTRON",
+        "Feature",
+        "HGVSc",
+        "HGVSp",
+        "HGVSg",
+        "HGVS_OFFSET",
+        "STRAND"
+    ]
+  }
