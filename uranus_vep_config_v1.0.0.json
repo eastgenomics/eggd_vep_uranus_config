@@ -87,7 +87,7 @@
       {
         "name": "CADD",
         "pm_file": "file-G620928433Gy9p2b27zb8JFV",
-        "required_fields":"gnomAD_AF,CADD_PHRED",
+        "required_fields":"CADD_PHRED",
         "resource_files": [
           {
             "file_id": "file-G61xfZ0433Gj2vJ7P8k9ky2Z",
@@ -112,6 +112,7 @@
         "HGVSp",
         "HGVSg",
         "HGVS_OFFSET",
-        "STRAND"
+        "STRAND",
+        "gnomAD_AF"
     ]
   }
