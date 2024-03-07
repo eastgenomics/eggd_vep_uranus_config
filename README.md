@@ -22,6 +22,8 @@ This json file provides information about annotations,plugins, required fields a
 * Custom Annotation sources:
     * ClinVar
         * clinvar_20231217_hg38_withchr.vcf.gz
+    * gnomAD
+        *   gnomad.exomes.r2.1.1.sites.all.liftover_grch38.trimmed_normalised_decomposed_PASS.vcf.bgz
     * COSMIC
         * CosmicCodingMuts_GRCh38_v94.normal.vcf.gz
         * CosmicNonCodingVariants_GRCh38_v94.normal.vcf.gz
@@ -31,8 +33,6 @@ This json file provides information about annotations,plugins, required fields a
     * CADD
         * whole_genome_SNVs.tsv.gz
         * gnomad.genomes.r3.0.indel.tsv.gz
-* VEP Annotation
-    * gnomad_AF (exome)
 
 Notes
 How to check the names of all the files included in the config:
