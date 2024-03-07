@@ -20,12 +20,19 @@ This json file provides information about annotations,plugins, required fields a
     * Homo_sapiens.GRCh38.dna.toplevel.fa.gz.gzi
     * GRCh38.no_alt_analysis_set_chr_mask21.fasta-index.tar.gz
 * Custom Annotation sources:
-    * clinvar_20231217_hg38_withchr.vcf.gz
+    * ClinVar
+        * clinvar_20231217_hg38_withchr.vcf.gz
+    * COSMIC
+        * CosmicCodingMuts_GRCh38_v94.normal.vcf.gz
+        * CosmicNonCodingVariants_GRCh38_v94.normal.vcf.gz
     * uranus_v2_panel_sorted_int.bed.gz
     * haemonc_1706_samples.vcf.gz
 * Plugin annotations:
-    * whole_genome_SNVs.tsv.gz
-    * gnomad.genomes.r3.0.indel.tsv.gz
+    * CADD
+        * whole_genome_SNVs.tsv.gz
+        * gnomad.genomes.r3.0.indel.tsv.gz
+* VEP Annotation
+    * gnomad_AF (exome)
 
 Notes
 How to check the names of all the files included in the config:
