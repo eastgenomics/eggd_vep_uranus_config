@@ -71,11 +71,11 @@
         ]
       },
       {
-        "name": "panel",
+        "name": "PANEL",
         "type": "bed",
         "annotation_type": "overlap",
         "force_coordinates": "0",
-        "required_fields": "panel",
+        "required_fields": "PANEL",
         "resource_files": [
           {
           "file_id":"file-GgZyv0j47xBzbYvvBQFG2QP5",
