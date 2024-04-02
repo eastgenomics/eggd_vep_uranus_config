@@ -128,6 +128,7 @@
         "HGVSg",
         "HGVS_OFFSET",
         "STRAND",
-        "Existing_variation"
+        "Existing_variation",
+        "VARIANT_CLASS"
     ]
   }
