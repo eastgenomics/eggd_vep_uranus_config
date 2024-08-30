@@ -23,8 +23,8 @@
         "required_fields":"ClinVar,ClinVar_CLNSIG,ClinVar_CLNSIGCONF,ClinVar_CLNDN",
         "resource_files": [
           {
-          "file_id":"file-GgBzkG049vk6F62Pkqppg7zY",
-          "index_id":"file-GgBzpYQ4F82VKq8JxBv9Y058"
+          "file_id":"file-Gq1YGQQ4fj5QKKGYPXPJQP5j",
+          "index_id":"file-Gq1YGv84P4JQKKGYPXPJQP75"
           }
         ]
       },
@@ -37,8 +37,8 @@
         "required_fields":"gnomADe_AC,gnomADe_AN,gnomADe_AF",
         "resource_files": [
           {
-          "file_id": "file-GgPVKF043kgZKfyz10Zjkj28",
-          "index_id":"file-GgPVKj043kgXfp72k59kQ8jQ"
+          "file_id": "file-GgPVk8j43kgkz5KgkfX2Y0y0",
+          "index_id":"file-GgPVkZ043kgX7KPBYq8g17vQ"
           }
         ]
       },
@@ -92,8 +92,8 @@
         "required_fields": "Prev_Count_AC,Prev_Count_NS",
         "resource_files": [
           {
-          "file_id":"file-GZJFvq043bFzkk3xBxY6GZyX",
-          "index_id":"file-GZJFvq043bFyG614g32P3K59"
+          "file_id":"file-Gj6YQg84qv8v2J1XKJy4fQYg",
+          "index_id":"file-Gj6YQg84qv8Z3F4J8fX7YK6V"
           }
         ]
       }
