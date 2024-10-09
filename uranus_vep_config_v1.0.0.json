@@ -96,6 +96,19 @@
           "index_id":"file-Gj6YQg84qv8Z3F4J8fX7YK6V"
           }
         ]
+      },
+      {
+        "name": "RESCUE_LIST",
+        "type": "BED",
+        "annotation_type": "overlap",
+        "force_coordinates": "0",
+        "required_fields": "RESCUE_LIST",
+        "resource_files": [
+          {
+          "file_id":"file-Gv2VV6842ffxbKgy0QK3Qj2B",
+          "index_id":"file-Gv2VV7j42ffq0b28pKK3QFFB"
+          }
+        ]
       }
     ],
     "plugins": [
