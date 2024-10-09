@@ -18,17 +18,18 @@ This json file provides information about annotations,plugins, required fields a
     * Homo_sapiens.GRCh38.dna.toplevel.fa.gz
     * Homo_sapiens.GRCh38.dna.toplevel.fa.gz.fai
     * Homo_sapiens.GRCh38.dna.toplevel.fa.gz.gzi
-    * GRCh38.no_alt_analysis_set_chr_mask21.fasta-index.tar.gz
+    * GRCh38_GIABv3_no_alt_analysis_set_maskedGRC_decoys_MAP2K3_KMT2C_KCNJ18_noChr.fasta-index.tar.gz
 * Custom Annotation sources:
     * ClinVar
-        * clinvar_20240215_GRCh38.vcf.gz
+        * clinvar_20240813_GRCh38.vcf.gz
     * gnomAD
-        *   gnomad.exomes.r2.1.1.sites.all.liftover_grch38.trimmed_normalised_decomposed_PASS.vcf.bgz
+        *   gnomad.exomes.r2.1.1.sites.all.liftover_grch38.trimmed_normalised_decomposed_PASS.no_chr.vcf.bgz
     * COSMIC
         * CosmicCodingMuts_GRCh38_v99.normal.vcf.gz
         * CosmicNonCodingVariants_GRCh38_v99.normal.vcf.gz
     * uranus_panel_v2_annotation_for_vep.bed.gz
-    * haemonc_1706_samples.vcf.gz
+    * haemonc_1706_samples_withoutchr.vcf.gz
+    * uranus_variants_rescue_list_nochr_v1.0.sorted.bed.gz
 * Plugin annotations:
     * CADD
         * whole_genome_SNVs.tsv.gz
