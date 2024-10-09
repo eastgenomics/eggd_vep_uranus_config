@@ -6,7 +6,7 @@
     },
         "vep_resources":{
         "vep_docker":"file-G61zff8433Gy2KQX7Q2z150B",
-        "vep_cache":"file-G61yF38433GQgP504Px5PZ4G",
+        "vep_cache":"file-Gqpj9Pj4x0kG0QY2vY77VQ4J",
         "plugin_config":"file-G61zfvj433GxkQXF414xP1yF",
         "reference_fasta":"file-G61y95Q433Gk05zyFKF9kFv2",
         "reference_fai":"file-G61yBV8433GjbVj022PyV3K5",
@@ -23,8 +23,8 @@
         "required_fields":"ClinVar,ClinVar_CLNSIG,ClinVar_CLNSIGCONF,ClinVar_CLNDN",
         "resource_files": [
           {
-          "file_id":"file-Gq1YGQQ4fj5QKKGYPXPJQP5j",
-          "index_id":"file-Gq1YGv84P4JQKKGYPXPJQP75"
+          "file_id":"file-GqYzGZ04ZG77K74Z2JYJBvP4",
+          "index_id":"file-GqYzJBj4Vx0pjpg97pk0zzk8"
           }
         ]
       },
@@ -78,8 +78,8 @@
         "required_fields": "PANEL",
         "resource_files": [
           {
-          "file_id":"file-GgZyv0j47xBzbYvvBQFG2QP5",
-          "index_id":"file-GgZyv1j47xBp4Jg5pgQ5gFGG"
+          "file_id":"file-GqFYKg047xBz592zG9JB09Jx",
+          "index_id":"file-GqFYKj847xBp6yV4px05VfjQ"
           }
         ]
       },
@@ -94,6 +94,19 @@
           {
           "file_id":"file-Gj6YQg84qv8v2J1XKJy4fQYg",
           "index_id":"file-Gj6YQg84qv8Z3F4J8fX7YK6V"
+          }
+        ]
+      },
+      {
+        "name": "RESCUE_LIST",
+        "type": "BED",
+        "annotation_type": "overlap",
+        "force_coordinates": "0",
+        "required_fields": "RESCUE_LIST",
+        "resource_files": [
+          {
+          "file_id":"file-Gv2VV6842ffxbKgy0QK3Qj2B",
+          "index_id":"file-Gv2VV7j42ffq0b28pKK3QFFB"
           }
         ]
       }
