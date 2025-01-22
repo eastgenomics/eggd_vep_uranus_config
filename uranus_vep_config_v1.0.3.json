@@ -2,7 +2,7 @@
     "config_information":{
         "genome_build": "GRCh38",
         "assay":"Uranus",
-        "config_version": "1.0.2"
+        "config_version": "1.0.3"
     },
         "vep_resources":{
         "vep_docker":"file-G61zff8433Gy2KQX7Q2z150B",
@@ -23,8 +23,8 @@
         "required_fields":"ClinVar,ClinVar_CLNSIG,ClinVar_CLNSIGCONF,ClinVar_CLNDN",
         "resource_files": [
           {
-          "file_id":"file-GxQb6pj4V62gk31Z6p5918Pf",
-          "index_id":"file-GxQbGZj44f43yGGpK358p2J6"
+          "file_id":"file-Gy72J784jBjZxFxp32GpX6pY",
+          "index_id":"file-Gy72Q2j4XjbkP7FGQGjjjqZb"
           }
         ]
       },
@@ -51,8 +51,8 @@
         "required_fields":"COSMICcMuts",
         "resource_files": [
           {
-          "file_id":"file-Gf02Fxj4Pj2vPPV0zyfpbFkz",
-          "index_id":"file-Gf02JgQ4Pj2xZg2b1g9pVV7g"
+          "file_id":"file-GqpjZZj4Pj2X4G2V9v22K403",
+          "index_id":"file-GqpjjY04Pj2kY3JXz7X0vxK1"
           }
         ]
       },
@@ -65,8 +65,8 @@
         "required_fields":"COSMICncMuts",
         "resource_files": [
           {
-          "file_id":"file-Gf02Jj04Pj2ZPxF97V6YJFKv",
-          "index_id":"file-Gf02KG84Pj2QB86kK721B9yQ"
+          "file_id":"file-GpfJbv84K7JYzF1568K44gXP",
+          "index_id":"file-GpfJby04K7JqY47pfzyJ65ZJ"
           }
         ]
       },
