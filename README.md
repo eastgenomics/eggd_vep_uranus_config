@@ -29,7 +29,7 @@ This json file provides information about annotations,plugins, required fields a
         * CosmicNonCodingVariants_GRCh38_v100.normal.vcf.gz
     * uranus_panel_v2_annotation_for_vep.bed.gz
     * haemonc_1706_samples_withoutchr.vcf.gz
-    * uranus_variants_rescue_list_nochr_v1.0.sorted.bed.gz
+    * uranus_variants_rescue_list_nochr_v1.1.sorted.bed.gz
 * Plugin annotations:
     * CADD
         * whole_genome_SNVs.tsv.gz
