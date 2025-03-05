@@ -30,6 +30,7 @@ This json file provides information about annotations,plugins, required fields a
     * uranus_panel_v2_annotation_for_vep.bed.gz
     * haemonc_1706_samples_withoutchr.vcf.gz
     * uranus_variants_rescue_list_nochr_v1.1.sorted.bed.gz
+    * haemonc_annotation_VCF_20250224_102322.vcf.gz
 * Plugin annotations:
     * CADD
         * whole_genome_SNVs.tsv.gz
