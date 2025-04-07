@@ -22,16 +22,21 @@ This json file provides information about annotations,plugins, required fields a
 * Custom Annotation sources:
     * ClinVar
         * clinvar_20250312_GRCh38.vcf.gz
-    * gnomAD
-        *   gnomad.exomes.r2.1.1.sites.all.liftover_grch38.trimmed_normalised_decomposed_PASS.no_chr.vcf.bgz
+    * gnomADe
+        *   gnomad.exomes.v4.1.sites.all.trimmed_normalised_decomposed_PASS.no_chr.vcf.bgz
+    * gnomADg
+        *   gnomad.genomes.v4.1.sites.all.trimmed_normalised_decomposed_PASS.no_chr.vcf.bgz
     * COSMIC
         * CosmicCodingMuts_GRCh38_v100.normal.vcf.gz
         * CosmicNonCodingVariants_GRCh38_v100.normal.vcf.gz
-    * uranus_panel_v2_annotation_for_vep.bed.gz
+    * uranus_panel_v3_annotation_for_vep.bed.gz
     * haemonc_1706_samples_withoutchr.vcf.gz
     * uranus_variants_rescue_list_nochr_v1.1.sorted.bed.gz
     * haemonc_annotation_VCF_20250224_102322.vcf.gz
 * Plugin annotations:
+    * SpliceAI
+        * spliceai_scores.masked.snv.hg38.vcf.gz
+        * spliceai_scores.masked.indel.hg38.vcf.gz
     * CADD
         * whole_genome_SNVs.tsv.gz
         * gnomad.genomes.r3.0.indel.tsv.gz
