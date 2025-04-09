@@ -27,7 +27,7 @@ This json file provides information about annotations,plugins, required fields a
     * COSMIC
         * CosmicCodingMuts_GRCh38_v100.normal.vcf.gz
         * CosmicNonCodingVariants_GRCh38_v100.normal.vcf.gz
-    * uranus_panel_v2_annotation_for_vep.bed.gz
+    * uranus_panel_v2_annotation_for_vep_v1.1.0.sorted.bed.gz
     * haemonc_1706_samples_withoutchr.vcf.gz
     * uranus_variants_rescue_list_nochr_v1.1.sorted.bed.gz
     * haemonc_annotation_VCF_20250224_102322.vcf.gz
