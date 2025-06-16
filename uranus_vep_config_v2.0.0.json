@@ -23,8 +23,8 @@
         "required_fields":"ClinVar,ClinVar_CLNSIG,ClinVar_CLNSIGCONF,ClinVar_CLNDN",
         "resource_files": [
           {
-          "file_id":"file-GzG0zKQ4Q8vbff8B7j1VP1Q8",
-          "index_id":"file-GzG12x043zxykQqyB7QPvf09"
+          "file_id":"file-J0bXbf04689YBQ5vby0QZk58",
+          "index_id":"file-J0bXg2Q4xqy82gKpy5bVv100"
           }
         ]
       },
@@ -106,8 +106,8 @@
         "required_fields": "PANEL",
         "resource_files": [
           {
-          "file_id":"file-Gzg6PX04pV02bKzZY4yyxxvK",
-          "index_id":"file-Gzg6Pf84pV0KXQ5yjXkYb8Vf"
+          "file_id":"file-J158BJQ4JBQ559q26gg5f1XX",
+          "index_id":"file-J158BQQ4JBQ6P7qGbbfK664x"
           }
         ]
       },
