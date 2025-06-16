@@ -23,8 +23,8 @@
         "required_fields":"ClinVar,ClinVar_CLNSIG,ClinVar_CLNSIGCONF,ClinVar_CLNDN",
         "resource_files": [
           {
-          "file_id":"file-J0bXbf04689YBQ5vby0QZk58",
-          "index_id":"file-J0bXg2Q4xqy82gKpy5bVv100"
+          "file_id":"file-J17yQJQ4B56XX9bX6pY8VpKf",
+          "index_id":"file-J17yVFQ44B02y5kJqykBf75V"
           }
         ]
       },
