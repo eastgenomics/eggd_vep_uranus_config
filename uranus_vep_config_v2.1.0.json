@@ -2,7 +2,7 @@
     "config_information":{
         "genome_build": "GRCh38",
         "assay":"Uranus",
-        "config_version": "2.0.0"
+        "config_version": "2.1.0"
     },
         "vep_resources":{
         "vep_docker":"file-G61zff8433Gy2KQX7Q2z150B",
@@ -142,7 +142,7 @@
     "plugins": [
       {
         "name": "SpliceAI",
-        "pm_file": "file-Gzky8384qj7jGf8bGK2QPqVY",
+        "pm_file": "file-J1Y338j4Xz71XqQgk301FfZq",
         "required_fields":"SpliceAI_pred_DS_AG,SpliceAI_pred_DS_AL,SpliceAI_pred_DS_DG,SpliceAI_pred_DS_DL,SpliceAI_pred_DP_AG,SpliceAI_pred_DP_AL,SpliceAI_pred_DP_DG,SpliceAI_pred_DP_DL",
         "resource_files": [
           {
