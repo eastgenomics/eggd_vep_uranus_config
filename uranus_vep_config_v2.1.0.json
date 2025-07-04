@@ -142,7 +142,7 @@
     "plugins": [
       {
         "name": "SpliceAI",
-        "pm_file": "file-J1Y338j4Xz71XqQgk301FfZq",
+        "pm_file": "file-J1Yqqkj4x8x357KPyjXgf0Gz",
         "required_fields":"SpliceAI_pred_DS_AG,SpliceAI_pred_DS_AL,SpliceAI_pred_DS_DG,SpliceAI_pred_DS_DL,SpliceAI_pred_DP_AG,SpliceAI_pred_DP_AL,SpliceAI_pred_DP_DG,SpliceAI_pred_DP_DL",
         "resource_files": [
           {
