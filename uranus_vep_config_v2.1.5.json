@@ -2,7 +2,7 @@
     "config_information":{
         "genome_build": "GRCh38",
         "assay":"Uranus",
-        "config_version": "2.1.4"
+        "config_version": "2.1.5"
     },
         "vep_resources":{
         "vep_docker":"file-G61zff8433Gy2KQX7Q2z150B",
