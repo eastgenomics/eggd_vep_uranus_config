@@ -2,7 +2,7 @@
     "config_information":{
         "genome_build": "GRCh38",
         "assay":"Uranus",
-        "config_version": "2.1.6"
+        "config_version": "2.1.7"
     },
         "vep_resources":{
         "vep_docker":"file-G61zff8433Gy2KQX7Q2z150B",
@@ -23,8 +23,8 @@
         "required_fields":"ClinVar,ClinVar_CLNSIG,ClinVar_CLNSIGCONF,ClinVar_CLNDN",
         "resource_files": [
           {
-          "file_id":"file-J4zzyV04vjqFKBJp1vVF1p21",
-          "index_id":"file-J4zzyXj43Xkyg01fvJ4bkyYp"
+          "file_id":"file-J5g0Zqj4kBK89073jXQ58p40",
+          "index_id":"file-J5g0yx04GkfPpx3J5ZQq8FBK"
           }
         ]
       },
